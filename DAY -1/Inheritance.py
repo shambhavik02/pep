@@ -18,3 +18,10 @@ print(audiq7.horsepower)
 print(audiq7.windows)
 audiq7.driving()
 audiq7.selfDriving()
+
+car1=car(4,5,"Diesel")
+print(car1)
+print(audiq7)
+
+print(dir(audiq7))
+print(dir(car1))
